@@ -8,7 +8,7 @@
 pip3 install -r requirements.txt
 ```
 
-## Add to Claude developer configuration file named `claude_desktop_config.json`
+## Integrate MCP server to Claude developer configuration file named `claude_desktop_config.json`
 
 ```json
 {
